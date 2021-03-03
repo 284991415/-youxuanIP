@@ -13,3 +13,4 @@ http=ap1-sg.er3.xyz:29986, username=405092066540912640, password=de1f43a6-b379-4
 http=ap1-ca.er3.xyz:29983, username=405092066540912640, password=de1f43a6-b379-4d74-84bf-135663d5b177, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键加拿大
 http=ap1-au.er3.xyz:29982, username=405092066540912640, password=de1f43a6-b379-4d74-84bf-135663d5b177, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键澳大利亚
 http=a1.er3.xyz:29980, username=405092066540912640, password=de1f43a6-b379-4d74-84bf-135663d5b177, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键新加坡COOLNET
+
