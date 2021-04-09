@@ -62,6 +62,6 @@ http=ap1-us.er3.xyz:29985, username=432558237045227520, password=dc2a5514-908b-4
 http=ap1-us.er3.xyz:29986, username=432558237045227520, password=dc2a5514-908b-4eaf-9fb1-986b4cdd68ae, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连5TV2美国曼哈顿6
 http=ap1-us.er3.xyz:29987, username=432558237045227520, password=dc2a5514-908b-4eaf-9fb1-986b4cdd68ae, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连5TV2美国曼哈顿7
 http=ap1-us.er3.xyz:29988, username=432558237045227520, password=dc2a5514-908b-4eaf-9fb1-986b4cdd68ae, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连5TV2美国曼哈顿8
-vmess=node.er3.xyz:11443,method=chacha20-ietf-poly1305,password=dc2a5514-908b-4eaf-9fb1-986b4cdd68ae, obfs=wss, obfs-uri=/ray, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连5TV2Netflix（解锁奈飞）
+vmess=node.er3.xyz:11443,method=chacha20-ietf-poly1305,username=432558237045227520, password=dc2a5514-908b-4eaf-9fb1-986b4cdd68ae, obfs=wss, obfs-uri=/ray, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连5TV2Netflix（解锁奈飞）
 
 
