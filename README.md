@@ -237,7 +237,7 @@
 38.207.190.141:587#655United States (US)
 38.47.113.227:38318#655United States (US)
 154.21.91.135:36688#655United States (US)
-38.105.30.228:36688#655United States (US)
+67.226.221.102:443#655United States (US)
 
 125.7.24.251:443#655Australia (AU)
 
