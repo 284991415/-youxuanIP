@@ -212,9 +212,7 @@
 38.47.113.227:38318#655United States (US)
 154.21.91.135:36688#655United States (US)
 104.194.81.134:8443#655United States (US)
-107.1.76.198:9443#656United States (US)
-107.0.208.94:9443#656United States (US)
-107.0.208.93:9443#656United States (US)
+
 
 125.7.24.251:443#655Australia (AU)
 
