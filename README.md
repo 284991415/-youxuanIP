@@ -212,7 +212,9 @@
 38.47.113.227:38318#655United States (US)
 154.21.91.135:36688#655United States (US)
 104.194.81.134:8443#655United States (US)
+64.81.39.89:46657#655United States (US)
 
+205.189.160.230:8868#656Hong Kong (HK)
 
 125.7.24.251:443#655Australia (AU)
 
