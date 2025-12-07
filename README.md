@@ -215,6 +215,7 @@
 38.207.162.5:42697#655United States (US)
 104.194.82.107:443#655United States (US)
 18.216.55.100:443#655United States (US)
+72.249.205.240:23288#655United States (US)
 
 
 202.85.53.160:7000#656Hong Kong (HK)
