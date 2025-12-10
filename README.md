@@ -222,7 +222,6 @@
 199.19.104.63:666#655United States (US)
 
 
-00.e7.ir.newdf12.info:8888#655United States (DE)
 
 202.85.53.160:7000#656Hong Kong (HK)
 154.12.177.24:54939#656Hong Kong (HK)
