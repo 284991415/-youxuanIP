@@ -222,7 +222,8 @@
 47.254.86.102:443#655United States (US)
 199.19.104.63:666#655United States (US)
 172.96.194.124:34555#655United States (US)
-
+154.26.188.60:20004#655United States (US)
+154.21.86.48:27507#655United States (US)
 
 
 
