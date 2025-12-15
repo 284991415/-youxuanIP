@@ -227,7 +227,10 @@
 104.224.158.96:443#655United States (US)
 23.185.200.148:9527#655United States (US)
 45.62.96.119:27015#655United States (US)
-
+144.202.123.173:443#655United States (US)
+149.28.80.8:10443#655United States (US)
+192.9.133.106:443#655United States (US)
+129.146.250.189:50008#655United States (US)
 
 
 
