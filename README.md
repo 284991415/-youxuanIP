@@ -232,6 +232,8 @@
 149.28.80.8:10443#655United States (US)
 192.9.133.106:443#655United States (US)
 129.146.250.189:50008#655United States (US)
+144.34.187.139:39738#655United States (US)
+104.194.86.60:587#655United States (US)
 
 
 
